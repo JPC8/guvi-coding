@@ -1,7 +1,7 @@
-# guvi-coding
+# guvi Coding
 guvi coding which is in JavaScript
 
-## Pre-BootCamp
+## Pre BootCamp
   1. 2D array sum [✅](pre-bootcamp/array_2d.js)
   2. Sum of each row from a 2D array and print in a single row.
   3. In String, remove vowels
