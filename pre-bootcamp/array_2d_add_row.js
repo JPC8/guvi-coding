@@ -6,9 +6,8 @@ const userInput = [];
 inp.on("line", (data) => {
  userInput.push(data);
 });
-
-//logic
 inp.on("close", () => {
+// logic part
     var sum=0;
     for(i = 0; i < userInput.length; i++){  
         var sumRow =0;
