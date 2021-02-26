@@ -6,15 +6,27 @@ const userInput = [];
 inp.on("line", (data) => {
  userInput.push(data);
 });
-inp.on("close", () => {
 
+// logic part
+inp.on("close", () => {
     var Sum= 0;
     for(i= 0; i< userInput.length; i++){
-        A= userInput[i].split(" ");
-        for(j=0;j<A.length;j++){
-            Sum += parseInt(A[i]);
-        }
+       A= userInput[i].split(" ");
+         for(j=0;j<A.length;j++){
+           Sum += parseInt(A[j]);
+         }
     }
-
-    console.log(Sum);
+    console.log('Total:', Sum);
+//end of logic
 });
+
+/*
+
+INPUT:
+  2 2 2
+  5 5 5
+  6 6 6
+
+OUTPUT:
+  Total: 39
+*/
