@@ -6,6 +6,8 @@ const userInput = [];
 inp.on("line", (data) => {
  userInput.push(data);
 });
+
+//logic
 inp.on("close", () => {
     var sum=0;
     for(i = 0; i < userInput.length; i++){  
@@ -18,4 +20,21 @@ inp.on("close", () => {
         console.log('Sum of', i+1,'row is', sumRow);
     }
 console.log('total:', sum);
+  
+//end of logic
 });
+
+/*
+
+INPUT:
+  1 2 3
+  1 2
+  1
+  
+OUTPUT:
+  Sum of 1 row is 6
+  Sum of 2 row is 3
+  Sum of 3 row is 1
+  total: 10
+
+*/
