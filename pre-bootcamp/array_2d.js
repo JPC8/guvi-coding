@@ -6,9 +6,9 @@ const userInput = [];
 inp.on("line", (data) => {
  userInput.push(data);
 });
-
-// logic part
 inp.on("close", () => {
+// logic part
+
     var Sum= 0;
     for(i= 0; i< userInput.length; i++){
        A= userInput[i].split(" ");
