@@ -1,5 +1,5 @@
 ## Assignment 5
-#### Write a function in javascript to find the average of n (n<10) using arrays.
+#### 1. Write a function in javascript to find the average of n (n<10) using arrays.
 ```
 var numArr = [25,65,48,30,10];
 
@@ -16,7 +16,7 @@ function avgArr(numArr){
 
 console.log(avgArr(numArr));
 ```
-#### Write a function in javascript to get the name from the user and find how many vowels are there
+#### 2. Write a function in javascript to get the name from the user and find how many vowels are there
 ```
 // Getting input via STDIN
 const readline = require("readline");
@@ -48,4 +48,25 @@ const result = countVowel(string);
 
 console.log(result);
 });
+```
+#### 3. define a class "guvi_student" with variable mark1 and mark2 in it and method to print marks. create two object (student1,student2) from the class "guvi_students" and print their marks using method defined in class
+```
+Stdobj= { std1:[84,88], std2:[74,95] };
+class guvi_student{
+    
+    constructor(mark1, mark2) {
+        this.mark1 = mark1;
+        this.mark2 = mark2;
+     }
+    
+    printMarks(){
+        console.log('Mark 1: '+ this.mark1,'| Mark 2: '+ this.mark2);
+    }
+}
+
+student1 = new guvi_student(Stdobj.std1[0], Stdobj.std1[1]);
+student1.printMarks();
+
+student2 = new guvi_student(Stdobj.std2[0], Stdobj.std2[1]);
+student2.printMarks();
 ```
