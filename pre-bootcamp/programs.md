@@ -65,8 +65,10 @@ class guvi_student{
 }
 
 student1 = new guvi_student(Stdobj.std1[0], Stdobj.std1[1]);
+console.log('student 1');
 student1.printMarks();
 
 student2 = new guvi_student(Stdobj.std2[0], Stdobj.std2[1]);
+console.log('student 2');
 student2.printMarks();
 ```
