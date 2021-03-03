@@ -35,7 +35,7 @@ inp.on("close", () => {
   function countVowel(str) { 
 
     // find the count of vowels
-    const count = str.match(/[aeiou]/gi).length;
+    const count = str.match(/[aeiouAEIOU]/gi).length;
 
     // return number of vowels
     return count;
