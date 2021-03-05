@@ -31,5 +31,13 @@ guvi coding which is in JavaScript
     ```
     > [Read More](pre-bootcamp/array_2d_add_row.js)
 3. In String, remove vowels
-4. Sort the array elements in descending order based on the number of 1’s in its binary representation.
-5. Frequency sort using objects.
+    ```
+    var strings = userInput[0].split(" ");                         
+
+    string = ((strings.map(x=>x.replace( /[aeiouAEIOU]/g, '' ))).toString()).replace(/,/g," ");              
+
+    console.log(string); 
+    ```
+    > [Read more](pre-bootcamp/remove_vol.js)
+5. Sort the array elements in descending order based on the number of 1’s in its binary representation.
+6. Frequency sort using objects.
