@@ -17,7 +17,7 @@ guvi coding which is in JavaScript
   
 2. Sum of each row from a 2D array and print in a single row. 
     ```js
-      var sum=0;
+    var sum=0;
     for(i = 0; i < userInput.length; i++){  
         var sumRow =0;
         var A= userInput[i].split(" ");
@@ -27,7 +27,7 @@ guvi coding which is in JavaScript
             }  
         console.log('Sum of', i+1,'row is', sumRow);
     }
-      console.log('total:', sum);
+    console.log('total:', sum);
     ```
     > [Read More](pre-bootcamp/array_2d_add_row.js)
 3. In String, remove vowels
