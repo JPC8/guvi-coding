@@ -11,7 +11,7 @@ First line contains the number of employee.Next line contains an array of D.O.B 
 
 ### Output Description:
 Print the employee index (index at 1). Print-1 if there are no such employee
-```
+```js
 // Getting input via STDIN
 const readline = require("readline");
 
