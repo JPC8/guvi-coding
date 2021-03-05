@@ -3,7 +3,7 @@ Reserved keywords are the words which are the syntax for the program to understa
 Which is basically constant name to be followed throught the programming language and reserved keyword cannot be used as an identifier.
 
 10 reserved words in javascript.
-
+```js
 1. var
 2. if
 3. for
@@ -14,3 +14,4 @@ Which is basically constant name to be followed throught the programming languag
 8. continue
 9. yield
 10. let
+```
