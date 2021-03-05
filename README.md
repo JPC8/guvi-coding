@@ -31,7 +31,7 @@ guvi coding which is in JavaScript
     ```
     > [Read More](pre-bootcamp/array_2d_add_row.js)
 3. In String, remove vowels
-    ```
+    ```js
     var strings = userInput[0].split(" ");                         
 
     string = ((strings.map(x=>x.replace( /[aeiouAEIOU]/g, '' ))).toString()).replace(/,/g," ");              
