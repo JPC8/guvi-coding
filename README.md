@@ -16,7 +16,7 @@ guvi coding which is in JavaScript
    > [Read More](pre-bootcamp/array_2d.js)
   
 2. Sum of each row from a 2D array and print in a single row. 
-    ```
+    ```js
       var sum=0;
     for(i = 0; i < userInput.length; i++){  
         var sumRow =0;
