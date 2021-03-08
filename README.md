@@ -1,4 +1,4 @@
-# <img src="https://miro.medium.com/fit/c/262/262/1*2CxNTEf0ywb2tvW0B9l4Yg.png" alt="guviLogo" width="30px"/>GUVI 
+# <img src="https://miro.medium.com/fit/c/262/262/1*2CxNTEf0ywb2tvW0B9l4Yg.png" alt="guviLogo" width="30px"/>GUVI
 
  
  - coding which is in JavaScript
