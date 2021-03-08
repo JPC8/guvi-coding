@@ -1,5 +1,6 @@
-# GUVI 
-<img src="https://i0.wp.com/navjeevanexpress.com/wp-content/uploads/2020/03/GUVI.png?w=370&ssl=1=50x" alt="guviLogo" style="width:100px;"/>
+# <img src="https://cdn-images-1.medium.com/fit/c/36/36/1*cI8iH-GiwvQB-B_vkZe1hw.png" alt="guviLogo"/>GUVI 
+
+ 
  - coding which is in JavaScript
  - I'm Zen member
 
