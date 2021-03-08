@@ -8,17 +8,19 @@ inp.on("line", (data) => {
 });
 inp.on("close", () => {
 // logic part
-    var sum=0;
+    var sum=0, s=[];
     for(i = 0; i < userInput.length; i++){  
         var sumRow =0;
         var A= userInput[i].split(" ");
             for(j = 0; j < A.length; j++){  
                 sumRow += parseInt(A[j]);
                 sum += parseInt(A[j]);
-            }  
+            }
+        s.push(sumRow);
         console.log('Sum of', i+1,'row is', sumRow);
     }
 console.log('total:', sum);
+console.log('Single Line res: ', ...s, sum);
   
 //end of logic
 });
@@ -35,5 +37,6 @@ OUTPUT:
   Sum of 2 row is 3
   Sum of 3 row is 1
   total: 10
+  Single Line res:  6 3 1 10
 
 */
