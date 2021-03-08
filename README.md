@@ -1,5 +1,6 @@
-# guvi Coding
-guvi coding which is in JavaScript
+# guvi 
+ - coding which is in JavaScript
+ - I'm Zen member
 
 ## Pre BootCamp
 1. 2D array sum 
