@@ -44,3 +44,12 @@
     > [Read more](pre-bootcamp/remove_vol.js)
 5. Sort the array elements in descending order based on the number of 1’s in its binary representation.
 6. Frequency sort using objects.
+
+
+## BootCamp
+[cheetsheet](https://github.com/reach2arunprakash/javascript-101/tree/master/cheatsheets)
+-Task 0 - Slide 11
+-Task 1 & 2 - 13
+
+
+
