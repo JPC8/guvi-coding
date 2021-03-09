@@ -49,8 +49,8 @@
 ## BootCamp
 [cheetsheet](https://github.com/reach2arunprakash/javascript-101/tree/master/cheatsheets)
 
--Task 0 - Slide 11
--Task 1 & 2 - 13
+ -Task 0  Slide 11
+ -Task 1 & 2  13
 
 
 
