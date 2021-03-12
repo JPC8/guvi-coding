@@ -57,6 +57,8 @@
         console.log(res);
     }
 ```
+[Back](#table-of-contents)
+
 ### 2. Hollow
 ```
 * * * * *
@@ -89,6 +91,8 @@
         
        console.log(res1.slice(0,-1));
 ```
+[Back](#table-of-contents)
+
 ### 3. Right Triangle Star
 ```
 *
@@ -112,6 +116,8 @@
     }
 console.log(string);
 ```
+[Back](#table-of-contents)
+
 ### 4. Right Triangle Star / Downward Triangle Star / Upside down / Flipped
 ```
 *****
@@ -158,6 +164,7 @@ console.log(string);
   }
   console.log(string);
 ```
+[Back](#table-of-contents)
 
 ### 6. Left Triangle Star / Upside down / Flipped
 ```
@@ -187,3 +194,4 @@ console.log(string);
 }
 console.log(string);
 ```
+[Back](#table-of-contents)
