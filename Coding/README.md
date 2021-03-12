@@ -4,7 +4,7 @@
 
 [1. Rectangle / Square](### 1. Rectangle / Square)
 
-[2. Hollow](###2.Hollow)
+[2. Hollow](#2-hollow)
 
 [3. Right Triangle Star](### 3. Right Triangle Star)
 
