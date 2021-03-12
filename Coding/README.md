@@ -2,17 +2,17 @@
 
 ##### Table of Contents
 
-[1. Rectangle / Square](### 1. Rectangle / Square)
+[1. Rectangle / Square](#1-rectangle--square)
 
 [2. Hollow](#2-hollow)
 
 [3. Right Triangle Star](#3-right-triangle-star)
 
-[4. Right Triangle Star / Downward Triangle Star / Upside down / Flipped](### 4. Right Triangle Star / Downward Triangle Star / Upside down / Flipped)
+[4. Right Triangle Star / Downward Triangle Star / Upside down / Flipped](#4-right-triangle-star--downward-triangle-star--upside-down--flipped)
 
-[5. Left Triangle Star](### 5. Left Triangle Star)
+[5. Left Triangle Star](#5-left-triangle-star)
 
-[6. Left Triangle Star / Upside down / Flipped](### 6. Left Triangle Star / Upside down / Flipped)
+[6. Left Triangle Star / Upside down / Flipped](#6-left-triangle-star--upside-down--flipped)
 
 ---
 
