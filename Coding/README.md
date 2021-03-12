@@ -6,7 +6,7 @@
 
 [2. Hollow](#2-hollow)
 
-[3. Right Triangle Star](### 3. Right Triangle Star)
+[3. Right Triangle Star](#3-right-triangle-star)
 
 [4. Right Triangle Star / Downward Triangle Star / Upside down / Flipped](### 4. Right Triangle Star / Downward Triangle Star / Upside down / Flipped)
 
