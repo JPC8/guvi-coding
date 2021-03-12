@@ -1,5 +1,16 @@
 # Patterns in JS
 
+##### Table of Contents
+
+[1. Rectangle / Square](### 1. Rectangle / Square)  
+[2. Hollow](### 2. Hollow)
+[3. Right Triangle Star](### 3. Right Triangle Star)
+[4. Right Triangle Star / Downward Triangle Star / Upside down / Flipped](### 4. Right Triangle Star / Downward Triangle Star / Upside down / Flipped)
+[5. Left Triangle Star](### 5. Left Triangle Star)
+[6. Left Triangle Star / Upside down / Flipped](### 6. Left Triangle Star / Upside down / Flipped)
+---
+
+
 ### 1. Rectangle / Square
 ```
 * * * * *     |    * * * 
